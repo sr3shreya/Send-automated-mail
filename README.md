@@ -1,4 +1,4 @@
 # Send-automated-mail
-Create and send automated e-mails using powershell script
-Add the properties as desired.
-You can modify, "To", "Subject", "Body" of the email accordingly.
+1. Create and send automated e-mails using powershell script
+2. Add the properties as desired.
+3. You can modify, "To", "Subject", "Body" of the email accordingly.
